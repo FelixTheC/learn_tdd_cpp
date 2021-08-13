@@ -1,0 +1,10 @@
+[requires]
+cpputest/4.0
+gtest/cci.20210126
+boost/1.76.0
+libcurl/7.78.0
+jsoncpp/1.9.4
+
+[generators]
+cmake
+cmake_find_package
